@@ -2,7 +2,7 @@ import frame from "./assets/frame.jpg";
 
 const HeroSection = () => {
   return (
-    <section className="pt-20 pb-[114px] md:mt-[100px] ">
+    <section className="container pt-20 pb-[114px] md:mt-[100px] ">
       <div className="grid md:grid-cols-2 items-center gap-6 lg:px-20 ">
         <div className=" flex justify-center md:order-2">
           <img
